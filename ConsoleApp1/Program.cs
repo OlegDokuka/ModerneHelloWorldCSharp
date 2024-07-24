@@ -4,6 +4,7 @@ public static class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World2!");        
+    	if (true)
+        	Console.WriteLine("Hello, World2!");
     }
 }
